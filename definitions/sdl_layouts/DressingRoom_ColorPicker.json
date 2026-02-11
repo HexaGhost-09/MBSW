@@ -1,0 +1,27 @@
+{
+  "result": {
+    "pageId": "DressingRoom_ColorPicker",
+    "rows": [
+      {
+        "controlId": "Layout",
+        "components": [
+          {
+            "type": "appearanceInteractionComp",
+            "$type": "AppearanceInteractionComponent"
+          },
+          {
+            "type": "colorPickerComp",
+            "$type": "ColorPickerComponent"
+          },
+          {
+            "type": "openExpandedAppearanceViewComp",
+            "$type": "OpenExpandedAppearanceViewComponent"
+          }
+        ]
+      }
+    ],
+    "inventoryVersion": "",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Persona"
+  }
+}
